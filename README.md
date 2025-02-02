@@ -124,6 +124,10 @@ This API can be deployed to any cloud platform that supports Node.js application
 - GitHub: [DrApkFile](https://github.com/DrApkFile)
 - Email: aghaken25@gmail.com
 
+
+## Deployments
+Deployed on Render at https://hngstage1task-ya6p.onrender.com
+
 ---
 
 ## Acknowledgments
