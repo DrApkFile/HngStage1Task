@@ -127,6 +127,7 @@ This API can be deployed to any cloud platform that supports Node.js application
 
 ## Deployments
 Deployed on Render at https://hngstage1task-ya6p.onrender.com
+View at  https://hngstage1task-ya6p.onrender.com/api/classify-number?number=371
 
 ---
 
