@@ -25,7 +25,8 @@ const isPrime = (num) => {
   };
   
   const getDigitSum = (num) => {
-    return String(num)
+    const absoluteNum = Math.abs(num);
+    return String(absoluteNum)
       .split('')
       .reduce((acc, digit) => acc + Number(digit), 0);
   };
